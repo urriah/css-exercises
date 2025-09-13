@@ -18,21 +18,12 @@ img {
   display: flex;
   justify-content: center;
   gap: 52px;
-  flex-wrap: wrap;
-}
-
-.item {
-  width: 200px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
 
 .text {
-  text-align: center;
+  display: flex;
+  flex; 1 1 min-content;
 }
-
 .main {
   display: flex;
   flex-direction: column;
